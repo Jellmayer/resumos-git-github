@@ -17,3 +17,4 @@ Repositório dedicado ao armazenamento de resumos para revisão do curso Version
 | ```git reset --mixed COMMIT HASH```| Retorna ao commit especificado e classifica arquivos não existentes em tal commit como untracked archives|
 | ```git reset --hard COMMIT HASH```| Retorna ao commit especificado e deleta arquivos não existentes em tal commit|
 |```git push -u origin main```| Envia todos os commits para o repositório remoto|
+|```git pull```| Copia o repositório remoto para o repositório local|
